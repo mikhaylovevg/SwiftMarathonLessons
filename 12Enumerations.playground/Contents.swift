@@ -46,8 +46,4 @@ default: break
 
 print(Direction.left.rawValue)
 
-// mini changes for git
-
-print("Hello world!")
-
-
+// del all changes
